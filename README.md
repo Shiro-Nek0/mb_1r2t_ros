@@ -3,6 +3,7 @@ ROS1 driver for MB_1r2t
 ![alt text](doc/mb_1r2t.jpg)
 ![alt text](doc/lidar_pinout.jpg)
 ##### *Speed control (GND = FASTEST/5v = SLOWEST)
+##### *Baud rate is 153600
 
 ## How to install
 I have currently only tested the driver with Ubuntu 20.04 using ROS1 Noetic
